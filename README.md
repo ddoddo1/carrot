@@ -1,2 +1,1 @@
-# carrot
-내가 만든 당근마켓
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bungeoppang&fontSize=90" />
